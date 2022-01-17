@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hacker Rank\\Hacker Rank.csproj": {}
+    "C:\\Users\\uSer\\Desktop\\HackerRank\\Hacker Rank.csproj": {}
   },
   "projects": {
-    "D:\\Hacker Rank\\Hacker Rank.csproj": {
+    "C:\\Users\\uSer\\Desktop\\HackerRank\\Hacker Rank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hacker Rank\\Hacker Rank.csproj",
+        "projectUniqueName": "C:\\Users\\uSer\\Desktop\\HackerRank\\Hacker Rank.csproj",
         "projectName": "Hacker Rank",
-        "projectPath": "D:\\Hacker Rank\\Hacker Rank.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Hacker Rank\\obj\\",
+        "projectPath": "C:\\Users\\uSer\\Desktop\\HackerRank\\Hacker Rank.csproj",
+        "packagesPath": "C:\\Users\\uSer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uSer\\Desktop\\HackerRank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\uSer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

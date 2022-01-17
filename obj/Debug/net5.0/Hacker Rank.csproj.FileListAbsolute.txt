@@ -14,3 +14,19 @@ D:\Hacker Rank\obj\Debug\net5.0\ref\Hacker Rank.dll
 D:\Hacker Rank\obj\Debug\net5.0\Hacker Rank.pdb
 D:\Hacker Rank\obj\Debug\net5.0\Hacker Rank.genruntimeconfig.cache
 D:\Hacker Rank\obj\Debug\net5.0\Hacker Rank.csproj.AssemblyReference.cache
+C:\Users\uSer\Desktop\HackerRank\bin\Debug\net5.0\Hacker Rank.exe
+C:\Users\uSer\Desktop\HackerRank\bin\Debug\net5.0\Hacker Rank.deps.json
+C:\Users\uSer\Desktop\HackerRank\bin\Debug\net5.0\Hacker Rank.runtimeconfig.json
+C:\Users\uSer\Desktop\HackerRank\bin\Debug\net5.0\Hacker Rank.runtimeconfig.dev.json
+C:\Users\uSer\Desktop\HackerRank\bin\Debug\net5.0\Hacker Rank.dll
+C:\Users\uSer\Desktop\HackerRank\bin\Debug\net5.0\ref\Hacker Rank.dll
+C:\Users\uSer\Desktop\HackerRank\bin\Debug\net5.0\Hacker Rank.pdb
+C:\Users\uSer\Desktop\HackerRank\obj\Debug\net5.0\Hacker Rank.csproj.AssemblyReference.cache
+C:\Users\uSer\Desktop\HackerRank\obj\Debug\net5.0\Hacker Rank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uSer\Desktop\HackerRank\obj\Debug\net5.0\Hacker Rank.AssemblyInfoInputs.cache
+C:\Users\uSer\Desktop\HackerRank\obj\Debug\net5.0\Hacker Rank.AssemblyInfo.cs
+C:\Users\uSer\Desktop\HackerRank\obj\Debug\net5.0\Hacker Rank.csproj.CoreCompileInputs.cache
+C:\Users\uSer\Desktop\HackerRank\obj\Debug\net5.0\Hacker Rank.dll
+C:\Users\uSer\Desktop\HackerRank\obj\Debug\net5.0\ref\Hacker Rank.dll
+C:\Users\uSer\Desktop\HackerRank\obj\Debug\net5.0\Hacker Rank.pdb
+C:\Users\uSer\Desktop\HackerRank\obj\Debug\net5.0\Hacker Rank.genruntimeconfig.cache

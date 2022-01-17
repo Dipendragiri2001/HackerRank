@@ -8,9 +8,9 @@ namespace Hacker_Rank
     {
         static void Main(string[] args)
         {
-            var list = new List<int> { 1, 2, 3, 4, 5 };
+            int[] list = { 5, 2, 1, 4, 3 };
 
-            Console.WriteLine(ArrayLeftRotation.rotLeft(list, 4));
+            Console.WriteLine(MinimumSwaps.MinimumSwaps.Swap(list));
         }
 
 
